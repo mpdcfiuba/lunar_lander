@@ -1,0 +1,6 @@
+* Atari Lunar Lander in SDL and C
+This is my 2019 implementation of the game in C using SDL. It was developed using SDL2 but now updated to run on SDL3. It was required for my Algorithms and Programming 1 subject.
+
+** About the code
+I did thigs differently on those days, I was young (or younger?), but the game works and the code is somewhat readable. My computer was a Pentium 4 if I'm not mistaken.. painful.. and I was also using windows.
+
